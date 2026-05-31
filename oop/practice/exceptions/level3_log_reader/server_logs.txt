@@ -1,0 +1,4 @@
+Hi, My name is Pratik, and I am currently practicing
+core   JAVA.
+My next goal would be to finsh java and start
+learning spring framework
